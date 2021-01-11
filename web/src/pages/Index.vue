@@ -71,10 +71,10 @@ import PostCard from '~/components/PostCard'
 export default {
   components: {
     AuthorCard,
-    PostCard
+    PostCard,
   },
   metaInfo: {
-    title: 'Hello, world!'
-  }
+    title: 'Korttråkkerne',
+  },
 }
 </script>
